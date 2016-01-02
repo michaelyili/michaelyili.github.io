@@ -5,25 +5,25 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: michaelyili
+google_analytics: michaelyili
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: michael yi li
 
 description: Stylish Jekyll Theme
 author:
   name: YiLi
   email: elyi.lee@gmail.com
   github: michaelyili
-  twitter: dbtek
+  twitter: RedDates
   pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  linkedin: Yi Li
+  bio: work hard, play harder!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
