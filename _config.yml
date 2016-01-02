@@ -13,11 +13,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: michael yi li
+      title: MICHAEL BLOG
 
 description: Stylish Jekyll Theme
 author:
-  name: YiLi
+  name: Michael Yi Li
   email: elyi.lee@gmail.com
   github: michaelyili
   twitter: 2253784074/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
