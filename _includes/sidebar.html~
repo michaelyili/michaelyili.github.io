@@ -1,7 +1,7 @@
 <!-- sidebar.html -->
 <header class="sidebar-header" role="banner">
 	<a href="{{ site.BASE_PATH }}/">
-		<img src="http://ww4.sinaimg.cn/mw690/8656040ajw1dyq68tum08j.jpg" class="img-circle" />
+		<img src="http://s11.sinaimg.cn/small/6905ffc0gc58a7142912a&690" class="img-circle" />
 	</a>
 	<h3 class="title">
         <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
