@@ -68,14 +68,16 @@
 	</ul>
 	-->
 
-<div class="clearfix"> </div>
+<div class="clearfix"></div>
 
 </div>
 
-<div class="list-group">
-	<a href="{{site.BASE_PATH}}/" class="list-group-item active" width="10">Home</a>
-	<a href="{{ site.BASE_PATH}}/{{site.categories_path}}" class="list-group-item" width="10">Categories</a>
-	<a href="{{site.BASE_PATH}}/{{site.tags_path}}" class="list-group-item" width="10">Tags</a>
+<div>
+	<ul class="nav nav-pills nav-stacked">
+		<li role="presentation" class="active"><a href="{{site.BASE_PATH}}/">Home</a></li>
+		<li role="presentation"><a href="{{ site.BASE_PATH}}/{{site.categories_path}}">Categories</a></li>
+		<li role="presentation"><a href="{{site.BASE_PATH}}/{{site.tags_path}}">Tags</a></li>
+	</ul>
 	<!--
 	<ul class="nav navbar-nav">
 		<li class="active"><a href="{{site.BASE_PATH}}/">Home</a></li>
