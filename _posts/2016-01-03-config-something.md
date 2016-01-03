@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 添加新浪微博分享功能，评论功能添加
+title: <font size="5", color="#FFFFFF">添加新浪微博分享功能，评论功能添加</font>
 categories: [front-end]
 tags: [front-end, refine blog]
 fullview: true
