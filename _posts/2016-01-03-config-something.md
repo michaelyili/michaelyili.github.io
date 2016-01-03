@@ -14,4 +14,4 @@ comment: true
 	
 1. 微博分享功能需要开通微博认证，获取微博**[开放平台API](http://open.weibo.com/sharebutton)**，认证之后，将获得的WBML添加到自己的项目中.
 
-<img src="{{site.BASE_PATH}}/assets/media/QQ20160103-0.pngi">
+<img src="{{site.BASE_PATH}}/assets/media/QQ20160103-0.png" />
