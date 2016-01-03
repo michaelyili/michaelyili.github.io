@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <font size="6", color="#000000", face="微软雅黑">添加新浪微博分享功能，评论功能添加</font>
+title: <font size="3", color="#000000">添加新浪微博分享功能，评论功能添加</font>
 categories: [front-end]
 tags: [front-end, refine blog]
 fullview: true
