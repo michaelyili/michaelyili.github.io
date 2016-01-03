@@ -1,4 +1,5 @@
 <!-- sidebar.html -->
+<html xmlns:wb="http://open.weibo.com/wb">
 <header class="sidebar-header" role="banner">
 	<meta property="wb:webmaster" content="663033dd7e82ef5d" />
 
@@ -8,6 +9,9 @@
 	<h3 class="title">
         <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
     </h3>
+
+	<!-- add weibo api -->
+	<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 </header>
 
 {% if site.author.bio %}
@@ -76,6 +80,10 @@
 		<li><a href="{{site.BASE_PATH}}/{{site.tags_path}}">Tags</a></li>
 	</ul>
 	-->
+</div>
+
+<div>
+	<wb:follow-button uid="2253784074" type="red_3" width="300" height="24" ></wb:follow-button>
 </div>
 
 <!-- sidebar.html end -->
