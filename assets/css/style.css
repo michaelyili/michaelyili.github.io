@@ -185,3 +185,11 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+.nav-sidebar-menu {
+	left: inherit;
+	right: 0px;
+}
+.nav-sidebar-menu>li>a>i.fa {
+	width: 1.3em
+}
+
