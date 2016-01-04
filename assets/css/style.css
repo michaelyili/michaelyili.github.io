@@ -186,11 +186,11 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 .nav-sidebar-menu{
-	/*left: inherit; */
-	right: 0px;
+	/*left: inherit; 
+	right: 0px; */
 }
 .nav-sidebar-menu>li>a>i.fa {
 	width: 1.3em;
-	left: inherit
+	/*left: inherit*/
 }
 
