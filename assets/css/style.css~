@@ -93,7 +93,7 @@ article{
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
-	margin-right: 50px;
+	margin-right: 100px;
 }
 
 .post-date {
@@ -183,5 +183,14 @@ footer {
 
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
+}
+
+.nav-sidebar-menu{
+	/*left: inherit; 
+	right: 0px; */
+}
+.nav-sidebar-menu>li>a>i.fa {
+	width: 1.3em;
+	/*left: inherit*/
 }
 

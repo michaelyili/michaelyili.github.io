@@ -10,8 +10,6 @@
         <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
     </h3>
 	
-	<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	
 	<!-- add weibo api -->
 	<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 </header>
@@ -74,11 +72,11 @@
 <div class="clearfix"></div>
 
 
-<ul class="nav nav-list">
-	<li><a href="{{site.BASE_PATH}}/"><i class="icon-home"></i> Home</a></li>
-	<li><a href="{{ site.BASE_PATH}}/{{site.categories_path}}"><i class="icon-folder"></i> Categories</a></li>
-	<li><a href="{{site.BASE_PATH}}/{{site.tags_path}}"><i class="icon-tags"></i> Tags</a></li>
-</ul>
+<div class="list-group">
+	<a class="list-group-item" href="{{site.BASE_PATH}}/"><i class="fa fa-home fa-fw"></i> Home</a>
+	<a class="list-group-item" href="{{site.BASE_PATH}}/{{site.categories_path}}"><i class="fa fa-folder fa-fw"></i> Categories</a>
+	<a class="list-group-item" href="{{site.BASE_PATH}}/{{site.tags_path}}"><i class="fa fa-tags fa-fw"></i> Tags</a>
+</div>
 
 <div class="clearfix"></div>
 

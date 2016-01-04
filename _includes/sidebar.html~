@@ -9,7 +9,7 @@
 	<h3 class="title">
         <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
     </h3>
-
+	
 	<!-- add weibo api -->
 	<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 </header>
@@ -67,25 +67,16 @@
 		</li>
 	</ul>
 	-->
+</div>
 
 <div class="clearfix"></div>
 
-</div>
 
-<div class="btn-group" role="group">
-	<!--	<ul class="btn-group" role="group" aria-label="..."> -->
-	<button	type="button" class="btn btn-default"> <li><a href="{{site.BASE_PATH}}/">Home</a></li>  </button>
-	<button	type="button" class="btn btn-default"> <li><a href="{{ site.BASE_PATH}}/{{site.categories_path}}">Categories</a></li> </button>
-		<button	type="button" class="btn btn-default"> <li><a href="{{site.BASE_PATH}}/{{site.tags_path}}">Tags</a></li> </button>
-		<!--	</ul>	-->
-	<!--
-	<ul class="nav navbar-nav">
-		<li class="active"><a href="{{site.BASE_PATH}}/">Home</a></li>
-		<li><a href="{{ site.BASE_PATH}}/{{site.categories_path}}">Categories</a></li>
-		<li><a href="{{site.BASE_PATH}}/{{site.tags_path}}">Tags</a></li>
-	</ul>
-	-->
-</div>
+<ul class="nav nav-list">
+	<li><a href="{{site.BASE_PATH}}/"><i class="icon-home"></i> Home</a></li>
+	<li><a href="{{ site.BASE_PATH}}/{{site.categories_path}}"><i class="icon-folder"></i> Categories</a></li>
+	<li><a href="{{site.BASE_PATH}}/{{site.tags_path}}"><i class="icon-tags"></i> Tags</a></li>
+</ul>
 
 <div class="clearfix"></div>
 
