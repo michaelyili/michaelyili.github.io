@@ -4,7 +4,7 @@ title: Jekyll本地开发配置
 tagline: to test tagline
 categories: [front-end] 
 tags: [front-end, refine blog, jekyll]
-fullview: true
+fullview: false
 comments: true
 description: some records to build jeyll locally
 ---

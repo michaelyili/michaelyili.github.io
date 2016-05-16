@@ -5,7 +5,7 @@ categories: [front-end]
 tags: [front-end, refine blog]
 shortinfo: true
 fullview: false
-comment: true
+comments: true
 ---
 
 今天继续了一些博客的小功能配置
