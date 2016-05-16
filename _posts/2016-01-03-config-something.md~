@@ -5,7 +5,6 @@ categories: [front-end]
 tags: [front-end, refine blog]
 fullview: false
 comments: true
-description: 添加新浪微博分享功能小按键
 ---
 
 今天继续了一些博客的小功能配置
