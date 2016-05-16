@@ -1,6 +1,6 @@
 ---
 theme :
-  name : michael 
+  name : 
 ---
 {% include default.html %}
 

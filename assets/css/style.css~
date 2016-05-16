@@ -96,6 +96,10 @@ article{
 	margin-right: 100px;
 }
 
+.article_body img {
+	max-width: 100%;
+}
+
 .post-date {
 	text-transform: uppercase;
 	font-size: 14px;
@@ -132,6 +136,10 @@ article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
 	color: #e74c3c;
+}
+
+article img {
+	max-width: 50%;
 }
 
 .author .author-image {
@@ -185,12 +193,4 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
-.nav-sidebar-menu{
-	/*left: inherit; 
-	right: 0px; */
-}
-.nav-sidebar-menu>li>a>i.fa {
-	width: 1.3em;
-	/*left: inherit*/
-}
 

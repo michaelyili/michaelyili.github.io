@@ -77,6 +77,19 @@
       <h4 class="section-title">Share Post</h4>
 
 
+		<!-- disable twitter and facebook
+		<a class="btn btn-default btn-sm twitter" href=" title={{page.title | encode}}"
+           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+          <i class="fa fa-twitter fa-lg"></i>
+          Twitter
+        </a>
+        <a class="btn btn-default btn-sm facebook" href="https://www.facebook.com/sharer/sharer.php"
+           onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+          <i class="fa fa-facebook fa-lg"></i>
+          Facebook
+        </a>
+		-->
+
 		<div>
 		<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 		<wb:share-button appkey="3215537579" addition="simple" type="button"></wb:share-button>
