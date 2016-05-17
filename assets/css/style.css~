@@ -93,7 +93,7 @@ article{
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
-	margin-right: 100px;
+	margin-right: 10px;
 }
 
 .article_body img {
@@ -139,7 +139,7 @@ article.home h4 a:hover {
 }
 
 article img {
-	max-width: 50%;
+	max-width: 100%;
 }
 
 .author .author-image {
