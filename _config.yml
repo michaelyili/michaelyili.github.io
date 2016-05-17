@@ -7,7 +7,9 @@ gems: [jekyll-paginate]
 highlighter: rouge
 markdown: kramdown
 disqus: michaelyili
-google_analytics: michaelyili
+description: This is a personal blog owned by Michael Li. I'm trying to
+    record my investment experience in this blog. My goal is to achieve
+    financial freedom in my 50 years old.
 
 defaults:
   -
@@ -16,7 +18,6 @@ defaults:
     values:
       title: MICHAEL BLOG
 
-description: Stylish Jekyll Theme
 author:
   name: Michael Yi Li
   email: elyi.lee@gmail.com
