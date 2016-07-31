@@ -1,7 +1,7 @@
 -------
 layout: post
 title: Recommend 10 websites of C-language opensource 
-category: [code]
+categories: [code]
 fullview: false
 comments: true
 -------
